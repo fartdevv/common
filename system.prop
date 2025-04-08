@@ -4,7 +4,8 @@
 
 # Audio
 ro.audio.silent=0
-ro.config.vc_call_vol_steps=9
+ro.config.vc_call_vol_steps=11
+ro.config.media_vol_steps=15
 audio_para_version=J15S-Audiopara-V20-20200527
 
 # Brand
